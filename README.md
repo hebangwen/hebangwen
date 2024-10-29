@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Hebangwen (何榜文)**, a post-graduate student in **Central South University**, marjoring in computer science and technology.
+I am **Hebangwen (何榜文)**, graduated from schools. Try best to be software developer currently.
 
 Welcome to my Github homepage and visit [my personal blog](https://hebangwen.github.io)
 
